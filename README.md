@@ -10,6 +10,6 @@ It follows the follow steps:
 Note: The initial repository variable (gitrepoloc) must be updated to the actual value, based on user's OS directory structure.
 
 Instructions to run the script
-$sh script.sh
+$./script.sh
 
 Enjoy!
