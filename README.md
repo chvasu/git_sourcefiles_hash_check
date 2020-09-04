@@ -1,4 +1,3 @@
-#Introduction
 This is a Linux Shell script to verify hashes of files pulled from Git repository (e.g. GitHub, GitLab, AWS CodeCommit, etc.).
 
 It follows the follow steps:
@@ -10,7 +9,7 @@ It follows the follow steps:
 
 Note: The initial repository variable (gitrepoloc) must be updated to the actual value, based on user's OS directory structure.
 
-#Instructions to run the script
+Instructions to run the script
 $sh script.sh
 
 Enjoy!
